@@ -1,0 +1,33 @@
+  
+  .container{
+    display: flex;
+    flex-direction: column;
+    border-color: rgb(188, 180, 30);
+     align-items: center;
+     justify-content: center;
+     width:400px;
+     margin:0 auto;
+     padding:10px 20px 20px 20px;
+     border:2px solid;
+     background-color: #333;
+  }
+
+  h1{
+    color:aqua
+  }
+
+  ul{
+    color: rgb(86, 221, 52);
+    margin-top: 10px;
+  }
+
+  #add{
+    background-color:#4caF5d;
+    margin-top: 10px;
+  }
+
+  #delete{
+    background-color:#e04d12;
+    margin-left: 10px;
+  }
+
